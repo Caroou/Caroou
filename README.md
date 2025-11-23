@@ -15,11 +15,3 @@ Estou começando minha jornada na área de desenvolvimento. Atualmente estou no 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=caroou&show_icons=true&theme=radical&locale=pt-br&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroou&layout=compact&theme=radical&locale=pt-br)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caroou/caroou/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caroou/caroou/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caroou/caroou/output/github-contribution-grid-snake.svg">
-</picture>
-
-*Espero que um dia essa cobrinha esteja "comendo" vários commits, haha.*
