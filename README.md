@@ -1,10 +1,10 @@
 ## 😺 Sobre Mim
 
-Olá! Me chamo **Carollyne**, tenho 23 anos.
-Estou começando minha jornada na área de desenvolvimento. Atualmente estou no **1º semestre**, no curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
+Olá! Me chamo **Carollyne**, tenho 24 anos.
+Estou começando minha jornada na área de desenvolvimento. Atualmente estou no **2º semestre**, no curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-* 🌱 **Foco Atual:** Consolidando minha base em **Lógica de Programação** e **Desenvolvimento Web**.
-* 💖 **Interesses:** Sou uma grande amante de tecnologia, mas também AMO **gatinhos** (inclusive tenho dois) e **jogos**.
+* 🌱 **Foco Atual:** Consolidando minha base em **Lógica de Programação**, **Desenvolvimento Web**, **Back-end**.
+* 💖 **Interesses:** Sou uma grande amante de tecnologia, mas também AMO **gatinhos** e **diversos tipos de jogos**.
 
 ##  🧠 Habilidades e Conhecimentos
 <p align="left">
